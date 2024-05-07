@@ -397,3 +397,4 @@ This folder contains utility scripts used by the Yarn scripts:
 - `commandRunner.mjs` exports a function to execute an array of shell commands in sequence.
 - `fix.mjs` cleans the Yarn cache, removes `node_modules`, reinstalls dependencies, and rebuilds the development environment.
 - `sync.mjs` automatically syncs the current branch with the latest `main` branch by committing, pushing, fetching `main`, merging it in, and pushing the result.
+# Soft-Eng-Project
